@@ -1,0 +1,6 @@
+file_upload_audit.report:
+  title: 'Auditoría de archivos subidos'
+  description: 'Ver archivos subidos y usuarios que los cargaron.'
+  route_name: file_upload_audit.report
+  parent: system.admin_reports
+  weight: 50

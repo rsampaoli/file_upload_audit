@@ -1,0 +1,5 @@
+name: 'File Upload Audit'
+type: module
+description: 'Lista los archivos subidos al sitio y muestra qué usuario los cargó.'
+core_version_requirement: ^10
+package: Custom

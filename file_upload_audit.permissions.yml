@@ -1,0 +1,3 @@
+view file upload audit:
+  title: 'View file upload audit'
+  description: 'Permite ver el reporte de archivos subidos y sus usuarios.'

@@ -1,0 +1,9 @@
+{
+  "name": "rsampaoli/file_upload_audit",
+  "description": "Reporte de auditoría de archivos subidos en Drupal.",
+  "type": "drupal-module",
+  "license": "proprietary",
+  "require": {
+    "drupal/core": "^10 || ^11"
+  }
+}

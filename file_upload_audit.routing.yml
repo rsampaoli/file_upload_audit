@@ -1,0 +1,7 @@
+file_upload_audit.report:
+  path: '/admin/reports/file-upload-audit'
+  defaults:
+    _controller: '\Drupal\file_upload_audit\Controller\FileUploadAuditController::report'
+    _title: 'Auditoría de archivos subidos'
+  requirements:
+    _permission: 'view file upload audit'
